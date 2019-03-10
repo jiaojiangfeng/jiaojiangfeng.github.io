@@ -16,7 +16,7 @@ tags:
 
 在这里要感谢一下 BY，下面是他的简书，可以关注一下。
 
-> BY:https://www.jianshu.com/u/e71990ada2fd
+> https://www.jianshu.com/u/e71990ada2fd
 
 建立这个博客的目的：
 

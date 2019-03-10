@@ -4,7 +4,7 @@ title:      MY FIRST BLOG
 subtitle:   我的第一个博客
 date:       2019-03-10
 author:     JJF
-header-img: img/post-bg-cook.jpg
+header-img: img/post-first.jpg
 catalog: true
 tags:
     - HELLO WORLD

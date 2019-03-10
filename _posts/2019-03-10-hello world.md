@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      MY FIRST BLOG
-subtitle:   我的第一个博客
-date:       2019-03-10
-author:     JJF
+title:      <font color="black">MY FIRST BLOG</font>
+subtitle:   <font color="black">我的第一个博客</font>
+date:       <font color="black">2019-03-10</font>
+author:     <font color="black">JJF</font>
 header-img: img/post-first.jpg
 catalog: true
 tags:
-    - HELLO WORLD
+    - <font color="black">HELLO WORLD</font>
 ---
 
 # MY FIRST BLGO

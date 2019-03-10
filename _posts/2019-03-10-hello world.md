@@ -29,4 +29,4 @@ tags:
 > O ever youthful, O ever weeping."
  						--《达摩流浪者》
 
-![](http://b.hiphotos.baidu.com/image/%70%69%63/item/9d82d158ccbf6c814952caf8b23eb13533fa40bd.jpg)
+![91aff8ddfbb742229cdf468d32049067.jpeg](https://i.loli.net/2019/03/10/5c84ca51df44a.jpeg)

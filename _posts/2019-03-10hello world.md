@@ -10,7 +10,7 @@ tags:
     - HELLO WORLD
 ---
 
-## MY FIRST BLGO
+# MY FIRST BLGO
 
 这是我第一次搭建博客，庆祝一下。在这中间踩了好多坑，但是终究还是弄出来了。
 

@@ -1,7 +1,7 @@
 # Site settings
 title: JJF'S BLOG
 SEOTitle: 焦江峰的博客 | JJF'S BLOG
-header-img: img/google-io18.gif
+header-img: img/post-bg-desk.jpg
 email: jaychou19961107@gmail.com
 description: "永远相信美好的事情即将发生"
 keyword: "JF, JJF Blog, 焦江峰的博客, JJF, 焦江峰, Date, Python"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/jiaojiangfeng/jiaojiangfeng.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "永远年轻 永远热泪盈眶"
+sidebar-about-description: "Say what you mean Do what you say"
 sidebar-avatar: /img/about-JJF.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -97,10 +97,10 @@ service-worker: true
 
 
 # Friends
-友情链接: [
+friends: [
     {
-         title: "MokeDc",
-         href: "https://mokedc.tw/"
+        # title: "WY",
+        # href: "http://zhengwuyang.com"
     },{
         title: "简书·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
